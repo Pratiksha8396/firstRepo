@@ -2,3 +2,4 @@ This is my first file in first repository
 This line is in branch file 
 Now i added third line in master file 
 new line added 
+and i added domething here too
